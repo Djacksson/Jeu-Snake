@@ -1,0 +1,3 @@
+
+Le score de Player 1 est de 0
+Le score de Joueur est de 50
